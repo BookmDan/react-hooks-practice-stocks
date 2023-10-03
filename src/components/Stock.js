@@ -13,7 +13,7 @@ function Portfolio({ myPortfolio }) {
     </div>
   )
 }
-
+// message
 function Stock({ stock, onBuy }) {
   return (
     <div className="card">
